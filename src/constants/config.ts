@@ -1,12 +1,12 @@
-export const appName:string = "ArrdelBee"
+export const appName:string = "CAYSTI HackEd Dashboard"
 
-export const appTabName:string = "ArrdelBee - Territorial Digital"
+export const appTabName:string = "CAYSTI-HackEd-Dashboard"
 
-export const appDescription:string = "Plateforme de solutions numériques de gestion des données des collectivités territoriales décentralisées dans toutes ses composantes pour un développement durable des territoires."
+export const appDescription:string = "CAYSTI HackEd Frontend Dashboard to visualise and manage data aiming at Transforming Education through Data Science."
 
 export const themeColor:string = "#356BB3"
 
-export const keywords:string = `${appName}, Territorial Digital, Collectivité Territoriale Décentralisée(CTD), Objectif de Développement Durable(ODD), Grille d’analyse de Développement Durable(GADD), Indicateurs Objectivement Vérifiables(IOV), Système d’Information Géographique(SIG), Photogrammétrie aérienne`;
+export const keywords:string = `${appName}, CAYSTI, HackEd, Dashboard, Nextjs, Chart Dashboard`;
 
 export const contactInfo: Array<{label:string, value:string}> = [
     {
